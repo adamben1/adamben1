@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam Benmoussa
 
-<!--
-**adamben1/adamben1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master Big Data & Internet des Objets – ENSAM Casablanca  
+💡 Intéressé par l’IA, le Big Data, le NLP et le développement Web
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Langages**: Java, Python, PHP, C, C#, PL/SQL  
+- **Frameworks**: Spring Boot, React.js  
+- **Big Data**: Apache Spark, Kafka, MLlib  
+- **IA & NLP**: Scikit-learn, TensorFlow, Keras, BERT, RoBERTa, Cyber-BERT  
+- **Bases de données**: PostgreSQL, MySQL, MongoDB, Oracle  
+- **DevOps**: Docker  
+- **Méthodes**: Agile (Scrum)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projets clés
+👉 Voir les repositories ci-dessous ⬇️
+
+📫 Contact : adambenmoussaelidrissi09@gmail.com  
+🔗 LinkedIn : linkedin.com/in/adam-benmoussa-99adam
